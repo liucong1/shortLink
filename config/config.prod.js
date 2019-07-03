@@ -31,6 +31,6 @@ config.mysql = {
   },
 };
 
-config.shortLinkPrefix = 'http://ecool.fun/l';
+config.shortLinkPrefix = 'http://ecool.fun/s';
 
 module.exports = config;

@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>短网址生成工具-Short Link Generation</title>
+    <link rel="shortcut icon" href="/public/img/shortLink/favicon.ico">
     <link rel="stylesheet" href="/public/css/common/reset.css"/>
     <link rel="stylesheet" href="/public/css/shortLink/index.css"/>
 </head>
@@ -31,5 +32,15 @@
     </dl>
     <script src="http://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="/public/js/shortLink/index.js"></script>
+
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?85d46d7295e28eee221ef20b0fe5ba94";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
 </body>
 </html>

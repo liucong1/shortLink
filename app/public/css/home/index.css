@@ -1,0 +1,24 @@
+
+header{
+    background: #000;
+    line-height: 60px;
+    color: #fff;
+    padding: 0 20px;
+}
+
+h1{
+    font-size: 18px;
+}
+
+.main-content{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.tool-link{
+    display: block;
+    line-height: 3;
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+}

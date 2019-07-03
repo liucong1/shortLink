@@ -20,7 +20,7 @@ demo页面参考：[短网址生成](http://www.ecool.fun/shortLink)
 
 * config.mysql : mysql 链接配置，具体配置方式见 [egg-mysql](https://www.npmjs.com/package/egg-mysql)
 
-* config.shortLinkPrefix : 生成的短网址域名
+* config.shortLinkPrefix : 生成的短网址域名（PS.目前短网址的path是以 /s 前缀开头，如果修改该前缀，请修改 `app/router.js` 中的短网址解析规则，否则会造成短网址无法跳转到对应的页面）
 
 ### 建数据表
 
