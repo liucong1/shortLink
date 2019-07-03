@@ -15,7 +15,7 @@
 <div class="main-content">
     <h2>本网站目前支持的工具箱有：</h2>
     <a class="tool-link" href="http://password.ecool.fun">随机密码生成</a>
-    <a class="tool-link" href="/short_link">短网址生成</a>
+    <a class="tool-link" href="/shortLink">短网址生成</a>
 </div>
 
 <script>

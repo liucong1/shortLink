@@ -22,3 +22,8 @@ h1{
     font-size: 16px;
     color: #333;
 }
+
+h2{
+    line-height: 3;
+    padding-top: 30px;
+}
